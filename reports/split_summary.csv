@@ -1,0 +1,4 @@
+split,Rows,Dimensions_observed,Observed_share
+Train,27597,132,0.004783
+Validation,14398,101,0.007015
+Test,17999,233,0.012945
